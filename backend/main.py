@@ -8,7 +8,7 @@ import matplotlib
 # Credentials
 config = SHConfig()
 config.sh_client_id = '56e09ce1-f626-4ea8-a63d-ce7d0f684961'
-config.sh_client_secret = 'PYgpFQkzUFQpQgRt3cAEpXeWa21SDsLR'
+config.sh_client_secret = 'PYgpsLR'
 
 evalscript = """
 //VERSION=3
